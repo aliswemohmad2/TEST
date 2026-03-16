@@ -1,5 +1,5 @@
-int add(a,b,c){
-  return a+ b + c;
+int add(a,b){
+  return a+ b ;
 }
 
 int sub(a,b){
