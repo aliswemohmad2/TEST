@@ -13,3 +13,8 @@ int mult(a,b){
 int divid(a , b ){
   return a / b ;
 }
+
+int mudolo(a , b ){
+  return a % b ;
+}
+
