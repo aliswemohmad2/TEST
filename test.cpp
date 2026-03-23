@@ -9,3 +9,7 @@ int sub(a,b){
 int mult(a,b){
   return a * b ;
 }
+
+int divid(a , b ){
+  return a / b ;
+}
