@@ -6,3 +6,6 @@ int sub(a,b){
   return a + b ;
 }
 
+int mult(a,b){
+  return a * b ;
+}
