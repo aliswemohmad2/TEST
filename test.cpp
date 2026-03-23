@@ -18,4 +18,10 @@ int mudolo(a , b ){
   return a % b ;
 }
 
+int sqr(a , b) {
+  for(int i = 0 ; i < b ; i ++){
+    a *= a;
+  }
+  return a;
+}
 
