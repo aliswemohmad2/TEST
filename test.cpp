@@ -25,12 +25,4 @@ int sqr(a , b) {
   return a;
 }
 
-int correct(a , b){
-  if (a == b){
-    cout >> "correct answer";
-  }
-  else{
-    cout >> "wrong answer";
-  }
-}
 
