@@ -18,5 +18,13 @@ int mudolo(a , b ){
   return a % b ;
 }
 
+int sqrt(a,b){
+  int x =a;
+  for(int = 0 ; i < b ; i++){
+    x *= a;
+  }
+  return x;
+}
+
 
 
